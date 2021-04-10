@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mohammadsafia/moshify/issues"
   },
-  "homepage": "https://github.com/mohammadsafia/moshify#readme"
+  "homepage": "https://github.com/mohammadsafia/moshify#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
